@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PCA9501PW,118
+D Interface - I/O Expanders
+K
+F http://www.nxp.com/docs/en/data-sheet/PCA9501.pdf
+$ENDCMP
+#
+#End Doc Library
