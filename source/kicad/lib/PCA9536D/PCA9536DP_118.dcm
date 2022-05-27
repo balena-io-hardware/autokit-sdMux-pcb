@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PCA9536DP,118
+D 4-bit I2C-bus and SMBus I/O port
+K
+F http://www.nxp.com/docs/en/data-sheet/PCA9536.pdf
+$ENDCMP
+#
+#End Doc Library

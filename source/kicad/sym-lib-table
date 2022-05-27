@@ -1,6 +1,6 @@
 (sym_lib_table
   (lib (name "USB2641I-HZH-02")(type "Legacy")(uri "${KIPRJMOD}/lib/USB2461I-HZH-02/USB2641I-HZH-02.lib")(options "")(descr ""))
   (lib (name "PCA9501PW_118")(type "Legacy")(uri "${KIPRJMOD}/lib/PCA9501PW/PCA9501PW_118.lib")(options "")(descr ""))
-  (lib (name "NCP164CSN330T1G")(type "Legacy")(uri "${KIPRJMOD}/lib/NCP164CSN330T1G/NCP164CSN330T1G.lib")(options "")(descr ""))
   (lib (name "sd")(type "KiCad")(uri "${KIPRJMOD}/lib/SD_CONNECTOR/sd.kicad_sym")(options "")(descr ""))
+  (lib (name "PCA9536DP_118")(type "Legacy")(uri "${KIPRJMOD}/lib/PCA9536D/PCA9536DP_118.lib")(options "")(descr ""))
 )
