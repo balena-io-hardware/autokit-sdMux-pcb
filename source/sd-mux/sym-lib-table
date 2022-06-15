@@ -3,4 +3,7 @@
   (lib (name "PCA9501PW_118")(type "Legacy")(uri "${KIPRJMOD}/lib/PCA9501PW/PCA9501PW_118.lib")(options "")(descr ""))
   (lib (name "sd")(type "KiCad")(uri "${KIPRJMOD}/lib/SD_CONNECTOR/sd.kicad_sym")(options "")(descr ""))
   (lib (name "PCA9536DP_118")(type "Legacy")(uri "${KIPRJMOD}/lib/PCA9536D/PCA9536DP_118.lib")(options "")(descr ""))
+  (lib (name "FT260S-U")(type "Legacy")(uri "${KIPRJMOD}/lib/FT260/FT260S-U.lib")(options "")(descr ""))
+  (lib (name "TLV76780DBVR")(type "Legacy")(uri "${KIPRJMOD}/lib/TLV76780DBVR/TLV76780DBVR.lib")(options "")(descr ""))
+  (lib (name "NCP1117DT33G")(type "Legacy")(uri "${KIPRJMOD}/lib/NCP1117DT33G /NCP1117DT33G.lib")(options "")(descr ""))
 )
