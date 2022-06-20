@@ -6,4 +6,5 @@
   (lib (name "FT260S-U")(type "Legacy")(uri "${KIPRJMOD}/lib/FT260/FT260S-U.lib")(options "")(descr ""))
   (lib (name "TLV76780DBVR")(type "Legacy")(uri "${KIPRJMOD}/lib/TLV76780DBVR/TLV76780DBVR.lib")(options "")(descr ""))
   (lib (name "NCP1117DT33G")(type "Legacy")(uri "${KIPRJMOD}/lib/NCP1117DT33G /NCP1117DT33G.lib")(options "")(descr ""))
+  (lib (name "693071010811")(type "Legacy")(uri "${KIPRJMOD}/lib/693071010811/693071010811.lib")(options "")(descr ""))
 )
