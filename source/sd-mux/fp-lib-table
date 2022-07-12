@@ -1,0 +1,10 @@
+(fp_lib_table
+  (lib (name "USB2461I-HZH-02")(type "KiCad")(uri "${KIPRJMOD}/lib/USB2461I-HZH-02")(options "")(descr ""))
+  (lib (name "PCA9501PW")(type "KiCad")(uri "${KIPRJMOD}/lib/PCA9501PW")(options "")(descr ""))
+  (lib (name "FT260")(type "KiCad")(uri "${KIPRJMOD}/lib/FT260")(options "")(descr ""))
+  (lib (name "PCA9536D")(type "KiCad")(uri "${KIPRJMOD}/lib/PCA9536D")(options "")(descr ""))
+  (lib (name "TLV76780DBVR")(type "KiCad")(uri "${KIPRJMOD}/lib/TLV76780DBVR")(options "")(descr ""))
+  (lib (name "693071010811")(type "KiCad")(uri "${KIPRJMOD}/lib/693071010811")(options "")(descr ""))
+  (lib (name "NCP1117DT33G")(type "KiCad")(uri "${KIPRJMOD}/lib/NCP1117DT33G")(options "")(descr ""))
+  (lib (name "SD")(type "KiCad")(uri "${KIPRJMOD}/lib/SD.pretty")(options "")(descr ""))
+)

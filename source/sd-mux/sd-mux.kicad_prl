@@ -62,11 +62,11 @@
       35,
       36
     ],
-    "visible_layers": "fffffff_ffffffff",
+    "visible_layers": "ffcff30_fffffff9",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "kicad.kicad_prl",
+    "filename": "sd-mux.kicad_prl",
     "version": 3
   },
   "project": {
