@@ -895,8 +895,8 @@
       (property "Value" "NCP1117DT33G" (id 1) (at 10.16 6.35 0)
         (effects (font (size 1.27 1.27)))
       )
-      (property "Footprint" "NCP1117DT33G" (id 2) (at 39.37 2.54 0)
-        (effects (font (size 1.27 1.27)) (justify left) hide)
+      (property "Footprint" "NCP1117DT33G" (id 2) (at 12.7 -5.08 0)
+        (effects (font (size 1.27 1.27)) (justify left))
       )
       (property "Datasheet" "https://www.onsemi.com/pdf/datasheet/ncp1117-d.pdf" (id 3) (at 39.37 0 0)
         (effects (font (size 1.27 1.27)) (justify left) hide)
@@ -4062,7 +4062,7 @@
   (symbol (lib_id "FT260S-U:FT260S-U") (at 308.61 35.56 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 72d6dbc1-4f75-4624-8c15-96b317920b01)
-    (property "Reference" "IC2" (id 0) (at 328.93 27.94 0))
+    (property "Reference" "U3" (id 0) (at 328.93 27.94 0))
     (property "Value" "FT260S-U" (id 1) (at 328.93 30.48 0))
     (property "Footprint" "SOP65P640X120-28N" (id 2) (at 345.44 33.02 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
@@ -4276,7 +4276,7 @@
     (uuid a16cfd73-6e44-4daf-ab2b-01b13a9b1e74)
     (property "Reference" "Y1" (id 0) (at 72.39 236.22 0))
     (property "Value" "24MHz" (id 1) (at 72.39 238.76 0))
-    (property "Footprint" "Crystal:Crystal_SMD_2016-4Pin_2.0x1.6mm" (id 2) (at 72.39 243.84 0)
+    (property "Footprint" "Crystal:Crystal_SMD_2012-2Pin_2.0x1.2mm" (id 2) (at 72.39 243.84 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 72.39 243.84 0)
@@ -4361,14 +4361,14 @@
     (property "Datasheet" "" (id 3) (at 266.7 242.57 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "5" (uuid 1776e7ed-dac4-466f-8ec8-8aa24da61fcf))
-    (pin "3" (uuid 9e585b3d-8fe1-44f1-9fc8-5987281c2772))
-    (pin "7" (uuid cebeffef-69ae-4431-95a4-b17730972349))
-    (pin "8" (uuid a821b327-5dfc-4753-a418-df9e583782ac))
     (pin "1" (uuid 3495c4e4-c167-42d0-9c93-fe1d29d84dd0))
     (pin "2" (uuid 14b86707-f5c6-41f6-86fa-ebdc80dea3e7))
+    (pin "3" (uuid 9e585b3d-8fe1-44f1-9fc8-5987281c2772))
     (pin "4" (uuid ae272554-298d-4626-ab10-73542ec84a87))
+    (pin "5" (uuid 1776e7ed-dac4-466f-8ec8-8aa24da61fcf))
     (pin "6" (uuid 0da1cebe-4dcc-4ce0-9c0d-df0d20903cdd))
+    (pin "7" (uuid cebeffef-69ae-4431-95a4-b17730972349))
+    (pin "8" (uuid a821b327-5dfc-4753-a418-df9e583782ac))
   )
 
   (symbol (lib_id "Device:FerriteBead") (at 59.69 62.23 0) (unit 1)
@@ -4393,7 +4393,7 @@
   (symbol (lib_id "NCP1117DT33G:NCP1117DT33G") (at 158.75 40.64 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid a81a2dad-f917-417a-a540-2d334f0ac69e)
-    (property "Reference" "IC1" (id 0) (at 168.91 31.75 0))
+    (property "Reference" "U2" (id 0) (at 168.91 31.75 0))
     (property "Value" "NCP1117DT33G" (id 1) (at 168.91 34.29 0))
     (property "Footprint" "NCP1117DT33G" (id 2) (at 171.45 45.72 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -5238,12 +5238,6 @@
     (path "/59affe93-7816-4090-8546-2b146ddc1d5a"
       (reference "FB4") (unit 1) (value "2A/0.05DCR") (footprint "Resistor_SMD:R_0201_0603Metric")
     )
-    (path "/a81a2dad-f917-417a-a540-2d334f0ac69e"
-      (reference "IC1") (unit 1) (value "NCP1117DT33G") (footprint "NCP1117DT33G")
-    )
-    (path "/72d6dbc1-4f75-4624-8c15-96b317920b01"
-      (reference "IC2") (unit 1) (value "FT260S-U") (footprint "SOP65P640X120-28N")
-    )
     (path "/e45c3082-4d8d-4bd3-a08e-18a1f9826960"
       (reference "J1") (unit 1) (value "USB_B_Micro") (footprint "Connector_USB:USB_Micro-B_Wuerth_629105150521_CircularHoles")
     )
@@ -5310,6 +5304,12 @@
     (path "/c573aec4-7aa7-4b4b-989e-5121197aacb5"
       (reference "U1") (unit 1) (value "USB2641I-HZH-02") (footprint "QFN50P700X700X100-49N-D")
     )
+    (path "/a81a2dad-f917-417a-a540-2d334f0ac69e"
+      (reference "U2") (unit 1) (value "NCP1117DT33G") (footprint "NCP1117DT33G")
+    )
+    (path "/72d6dbc1-4f75-4624-8c15-96b317920b01"
+      (reference "U3") (unit 1) (value "FT260S-U") (footprint "SOP65P640X120-28N")
+    )
     (path "/a41e579d-ae08-4be3-8e7f-c581fb40aafc"
       (reference "U4") (unit 1) (value "TS3A27518EPW") (footprint "Package_SO:TSSOP-24_4.4x7.8mm_P0.65mm")
     )
@@ -5317,7 +5317,7 @@
       (reference "U5") (unit 1) (value "SD_CONNECTOR") (footprint "SD:SD_connector")
     )
     (path "/a16cfd73-6e44-4daf-ab2b-01b13a9b1e74"
-      (reference "Y1") (unit 1) (value "24MHz") (footprint "Crystal:Crystal_SMD_2016-4Pin_2.0x1.6mm")
+      (reference "Y1") (unit 1) (value "24MHz") (footprint "Crystal:Crystal_SMD_2012-2Pin_2.0x1.2mm")
     )
   )
 )
