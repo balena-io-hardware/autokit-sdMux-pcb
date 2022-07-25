@@ -474,7 +474,7 @@
       "idf": "",
       "netlist": "sd-mux.net",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../../output/3d/STEP/sd-mux.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

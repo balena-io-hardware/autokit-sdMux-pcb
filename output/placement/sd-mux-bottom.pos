@@ -1,0 +1,14 @@
+### Module positions - created on Mon 25 Jul 2022 12:41:11 BST ###
+### Printed by Pcbnew version 6.0.5-a6ca702e91~116~ubuntu20.04.1
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                Package                                             PosX       PosY       Rot  Side
+C6        0.1uF              C_0201_0603Metric                              -187.2000   -96.3000    0.0000  bottom
+C11       0.1uF              C_0201_0603Metric                              -186.9000   -97.8000   90.0000  bottom
+C16       0.1uF              C_0201_0603Metric                              -186.8500   -94.4562   90.0000  bottom
+C19       4.7uF              C_0201_0603Metric                              -189.7000   -98.8000    0.0000  bottom
+FB1       2A/0.05DCR         R_0201_0603Metric                              -183.9976   -92.5000    0.0000  bottom
+J1        USB_B_Micro        USB_Micro-B_Wuerth_629105150521_CircularHoles  -178.1550   -93.7550   90.0000  bottom
+J2        Micro_SD_Card_Det  microSD_HC_Molex_104031-0811                   -196.4000  -115.7000    0.0000  bottom
+U2        NCP1117DT33G       NCP1117DT33G                                   -178.9000  -109.0380  -90.0000  bottom
+## End
