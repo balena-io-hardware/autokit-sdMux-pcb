@@ -3049,8 +3049,8 @@
   (gr_text "autokit-sd-mux\nversion: 1.0 (draft) \n" (at 183.7 118.9) (layer "F.SilkS") (tstamp 9c7ac053-b292-4354-ac8d-fc27fd3cf3f8)
     (effects (font (size 0.81 0.81) (thickness 0.15)))
   )
-  (gr_text "1. Number of layers: 4\n2. Finish: ENIG\n3. PCB thickness: 0.8mm +- 10%\n4. Outer layer finished copper thickness: 1oz\n5. Inner layer finished copper thickness: 1oz" (at 225.15 89.1) (layer "F.Fab") (tstamp f8e0c2ea-f585-4e96-9692-ae46418e70cf)
-    (effects (font (size 0.81 0.81) (thickness 0.15)))
+  (gr_text "1. Number of layers: 4\n2. Finish: ENIG\n3. PCB thickness: 0.8mm +- 10%\n4. Outer layer finished copper thickness: 1oz\n5. Inner layer finished copper thickness: 1oz" (at 225.15 89.1) (layer "B.Fab") (tstamp f8e0c2ea-f585-4e96-9692-ae46418e70cf)
+    (effects (font (size 0.81 0.81) (thickness 0.15)) (justify mirror))
   )
 
   (segment (start 188.4426 106.9594) (end 188.4426 105.6386) (width 0.25) (layer "F.Cu") (net 1) (tstamp 1f4461a2-c4ae-4c85-a89d-0d0542a88ace))
