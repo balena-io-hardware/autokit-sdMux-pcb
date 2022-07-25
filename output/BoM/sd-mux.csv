@@ -1,24 +1,24 @@
-Id,Designator,Package,Quantity,Designation,Supplier and ref
-1,"D1,D2,D3",LED_0201_0603Metric,3,LED,
-2,Y1,Crystal_SMD_2012-2Pin_2.0x1.2mm,1,24MHz,
-3,U4,TSSOP-24_4.4x7.8mm_P0.65mm,1,TS3A27518EPW, https://www.ti.com/product/TS3A27518E/part-details/TS3A27518EPWR?HQS=ocb-tistore-invf-invftransact-invf-store-octopart-wwe
-4,"R4,R11,R12,R5,R16,R3,R9,R8",R_0201_0603Metric,8,10k,
-5,"C18,C8,C25,C5,C26,C9,C13,C22,C16,C6,C11",C_0201_0603Metric,11,0.1uF,
-6,R13,R_0201_0603Metric,1,51k,
-7,"C4,C3,C10,C7",C_0201_0603Metric,4,1uF,
-8,R14,R_0201_0603Metric,1,220,
-9,"R19,R6,R17,R18",R_0201_0603Metric,4,330,
-10,"C20,C15,C23,C24,C21,C19",C_0201_0603Metric,6,4.7uF,
-11,"C14,C12",C_0201_0603Metric,2,10uF,
-12,R15,R_0201_0603Metric,1,12k,
-13,U1,QFN50P700X700X100-49N-D,1,USB2641I-HZH-02,https://www.mouser.co.uk/ProductDetail/Microchip-Technology-Atmel/USB2641I-HZH-02?qs=pA5MXup5wxHc2szICz2Abg%3D%3D
-14,"R7,R1",R_0201_0603Metric,2,100k,
-15,"FB2,FB4,FB3,FB1",R_0201_0603Metric,4,2A/0.05DCR,
-16,"C1,C17,C2",C_0201_0603Metric,3,18pF,
-17,U3,SOP65P640X120-28N,1,FT260S-U,https://www.mouser.co.uk/ProductDetail/FTDI/FT260S-U?qs=kxHH85wvK2I1y%2FWs1iaApw%3D%3D
-18,R10,R_0201_0603Metric,1,4.7k,
-19,R2,R_0201_0603Metric,1,1M,
-20,U5,SD_connector,1,SD_CONNECTOR,
-21,J1,USB_Micro-B_Wuerth_629105150521_CircularHoles,1,USB_B_Micro,https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/629105150521?qs=a9WhcLg8qCzXiH7kZP8GRQ%3D%3D
-22,J2,microSD_HC_Molex_104031-0811,1,Micro_SD_Card_Det,https://www.mouser.co.uk/ProductDetail/Molex/104031-0811?qs=udsGRKD4nA3Tvy7wqky%252BuA%3D%3D&gclid=Cj0KCQjw_viWBhD8ARIsAH1mCd4tECpf7dIHWj-fd0LmyT3jAFxwQOTDV8ceBcZER-bPr0hSTbhbuxMaAuNDEALw_wcB
-23,U2,NCP1117DT33G,1,NCP1117DT33G,https://www.mouser.co.uk/ProductDetail/onsemi/NCP1117DT33G?qs=Gev%252BmEvV0ib8cFCgG6Q0fQ%3D%3D
+Id,Designator,Package,Quantity,Designation,Supplier and ref,Part Num (Mouser)
+1,"D1,D2,D3",LED_0201_0603Metric,3,LED,,
+2,Y1,Crystal_SMD_2012-2Pin_2.0x1.2mm,1,24MHz,,
+3,U4,TSSOP-24_4.4x7.8mm_P0.65mm,1,TS3A27518EPW, https://www.ti.com/product/TS3A27518E/part-details/TS3A27518EPWR?HQS=ocb-tistore-invf-invftransact-invf-store-octopart-wwe,"TS3A27518EPWR (TI, not mouser) "
+4,"R4,R11,R12,R5,R16,R3,R9,R8",R_0201_0603Metric,8,10k,,
+5,"C18,C8,C25,C5,C26,C9,C13,C22,C16,C6,C11",C_0201_0603Metric,11,0.1uF,,
+6,R13,R_0201_0603Metric,1,51k,,
+7,"C4,C3,C10,C7",C_0201_0603Metric,4,1uF,,
+8,R14,R_0201_0603Metric,1,220,,
+9,"R19,R6,R17,R18",R_0201_0603Metric,4,330,,
+10,"C20,C15,C23,C24,C21,C19",C_0201_0603Metric,6,4.7uF,,
+11,"C14,C12",C_0201_0603Metric,2,10uF,,
+12,R15,R_0201_0603Metric,1,12k,,
+13,U1,QFN50P700X700X100-49N-D,1,USB2641I-HZH-02,https://www.mouser.co.uk/ProductDetail/Microchip-Technology-Atmel/USB2641I-HZH-02?qs=pA5MXup5wxHc2szICz2Abg%3D%3D,886-USB2641I-HZH-02 
+14,"R7,R1",R_0201_0603Metric,2,100k,,
+15,"FB2,FB4,FB3,FB1",R_0201_0603Metric,4,2A/0.05DCR,,
+16,"C1,C17,C2",C_0201_0603Metric,3,18pF,,
+17,U3,SOP65P640X120-28N,1,FT260S-U,https://www.mouser.co.uk/ProductDetail/FTDI/FT260S-U?qs=kxHH85wvK2I1y%2FWs1iaApw%3D%3D,895-FT260S-U 
+18,R10,R_0201_0603Metric,1,4.7k,,
+19,R2,R_0201_0603Metric,1,1M,,
+20,U5,SD_connector,1,SD_CONNECTOR,,
+21,J1,USB_Micro-B_Wuerth_629105150521_CircularHoles,1,USB_B_Micro,https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/629105150521?qs=a9WhcLg8qCzXiH7kZP8GRQ%3D%3D,710-629105150521 
+22,J2,microSD_HC_Molex_104031-0811,1,Micro_SD_Card_Det,https://www.mouser.co.uk/ProductDetail/Molex/104031-0811?qs=udsGRKD4nA3Tvy7wqky%252BuA%3D%3D&gclid=Cj0KCQjw_viWBhD8ARIsAH1mCd4tECpf7dIHWj-fd0LmyT3jAFxwQOTDV8ceBcZER-bPr0hSTbhbuxMaAuNDEALw_wcB,538-104031-0811 
+23,U2,NCP1117DT33G,1,NCP1117DT33G,https://www.mouser.co.uk/ProductDetail/onsemi/NCP1117DT33G?qs=Gev%252BmEvV0ib8cFCgG6Q0fQ%3D%3D,863-NCP1117DT33G 
