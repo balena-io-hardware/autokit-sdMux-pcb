@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP XRCGB24M000F2P00R0
+D Murata 24MHz Crystal +/-20ppm Cap Chip 3-Pin 2 x 1.6 x 0.7mm
+K
+F https://www.murata.com/products/productdata/8801075560478/SPEC-XRCGB24M000F2P00R0.pdf?1541043009000
+$ENDCMP
+#
+#End Doc Library

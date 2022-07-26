@@ -7,4 +7,5 @@
   (lib (name "693071010811")(type "KiCad")(uri "${KIPRJMOD}/lib/693071010811")(options "")(descr ""))
   (lib (name "NCP1117DT33G")(type "KiCad")(uri "${KIPRJMOD}/lib/NCP1117DT33G")(options "")(descr ""))
   (lib (name "SD")(type "KiCad")(uri "${KIPRJMOD}/lib/SD.pretty")(options "")(descr ""))
+  (lib (name "XRCGB24M000F2P00R0")(type "KiCad")(uri "${KIPRJMOD}/lib/XRCGB24M000F2P00R0")(options "")(descr ""))
 )
