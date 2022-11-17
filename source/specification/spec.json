@@ -1,7 +1,20 @@
 {
-    "name": "Hardware Process Template",
-    "description": "Dummy spec.json file",
-    "hwType" : "3d",
+    "name": "autokit-sd-mux",
+    "description": "PCB to multiplex micro-SD card between USB host and male SD connector.",
+    "hwType" : "pcb",
     "manufacture" : [
+        {
+            "name": "pcb",
+            "slug": "autokit-sd-mux-pcb",
+            "parameters":{
+                "quantity": 1,
+                "layers": 4,
+                "pcbThickness": "0.8mm",
+                "material": "FR4",
+                "finish": "ENIG",
+                "OuterLayerCopperThickness": "1oz",
+                "InnerLayerCopperThickness": "1oz"
+            }
+        }
     ]
 }

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NCP1117DT33G
+D Linear Voltage Regulator IC Positive Fixed 1 Output 1A DPAK
+K
+F https://www.onsemi.com/pdf/datasheet/ncp1117-d.pdf
+$ENDCMP
+#
+#End Doc Library
