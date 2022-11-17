@@ -1,0 +1,14 @@
+- commits:
+    - subject: Switch from balenaCI to flowzone
+      hash: 7eca582020618b7ce18a05366b795c4006e418b9
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Heath Raftery (@hraftery) <heath.raftery@balena.io>
+        signed-off-by: Heath Raftery (@hraftery) <heath.raftery@balena.io>
+      author: Heath Raftery
+      nested: []
+  version: 0.0.2
+  title: ""
+  date: 2022-11-17T10:28:26.250Z
